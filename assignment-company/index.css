@@ -1,0 +1,188 @@
+.logo{
+    margin-top: 3.42rem;
+    margin-left: 12.33rem;
+    width: 10.33rem;
+    height: 4.17rem;
+    position: absolute;
+}
+.l{
+    width: 700rem;
+    height: 52.83rem;
+}
+html{
+    font-size: 62.5%;
+}
+
+.pa{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 9%;
+  margin-top: 30%;
+}
+.Account{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 60%;
+  margin-top: 30%;
+}
+
+.Grant{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 65%;
+  margin-top: 30%;
+}
+.Contribution{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 70%;
+  margin-top: 30%; 
+}
+.Reports{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 77%;
+  margin-top: 30%; 
+}
+.logout{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 1rem;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 82%;
+  margin-top: 40%; 
+}
+.Logout{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 84%;
+  margin-top: 30%; 
+}
+.Inside-border{
+    /*width: 120rem;
+    height: 52.83rem;
+    margin: 0 0 17.42rem;
+    padding: 0 0 0.08rem;
+    background-color: rgba(0, 0, 0, 0.048);
+    z-index: 3;
+    border-radius: 1rem;
+    position: absolute;
+    margin-top: 0%;
+    */
+    width: 5000.7px;
+    height: 457.5px;
+    margin: 223.3px 89.2px 21.7px 89.2px;
+    padding: 27.2px 0.9px 25.2px 0.2px;
+    border-radius: 4.2px;
+    box-shadow: 0 0 10px 0 rgba(121, 148, 152, 0.15);
+    background-color: #ffffff;
+    margin-top: 0%;
+  }
+  .Stanton{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 2.5rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 10%;
+    margin-bottom: -10%;
+  }
+.The_standard_VCEP_Seed_Fund{
+    position: absolute; 
+    display: inline-block;
+    bottom: 80%;
+    font-family: OpenSans;
+    font-size: 1rem; 
+    color: #ffffff;
+    
+    width: 122;
+    line-height: 150%;
+    z-index: 3;
+    margin-left: 10%;
+    margin-bottom: -11%;
+}
+.back{
+    margin-left: 8.92rem;
+    margin-top: 22.33rem;
+    z-index: 4;
+}
+
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
+@media(max-width:426px){
+    html{
+        font-size: 35%;
+    }
+}
+@media(max-width:320px){
+    html{
+        font-size: 25%;
+    }
+}
